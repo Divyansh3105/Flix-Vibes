@@ -54,3 +54,4 @@ This project is open-source and available under the MIT License.
 ## Contact
 
 - 📧 Email: divyanshgarg3105@gmail.com
+- 🌐 GitHub: [GitHub Profile](https://github.com/Divyansh3105)
